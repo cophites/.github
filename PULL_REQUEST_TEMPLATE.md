@@ -15,6 +15,7 @@ Please ensure that you have completed the following before submitting your PR:
 
 - [ ] The code follows the style guidelines of this project
 - [ ] The code has been adequately tested (manually and/or with automated tests)
+- [ ] The code does not introduce any security vulnerabilities: via package dependencies; via unsanitised input; etc. (See: [Engineering Guide: ensuring security in the Cophi app and system](https://www.notion.so/cophites/Engineering-Guide-ensuring-security-in-the-Cophi-app-and-system-c2256953e39f49028355353211de759c))
 - [ ] The code has been properly documented (inline comments and/or external documentation)
 - [ ] The PR includes any necessary updates to the README, wiki, or other project documentation
 - [ ] The PR has been reviewed by at least one other team member
